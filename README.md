@@ -10,7 +10,13 @@ $ git clone https://github.com/raghudevendra/solactive-demo.git
 
 4) Run the project as Spring boot application execute below url's. 
   
-5) POST Method URL  --> http://localhost:8080/api/ticks
+5) POST Method URL  --> http://localhost:8080/api/ticks   with below Request Body:-
+      {
+         "instrument": "IBM.N",
+         "price": 143.82,
+         "timestamp": 1478192204000
+      }
+
 
 6) GET Method --> http://localhost:8080/api/statistics
 
