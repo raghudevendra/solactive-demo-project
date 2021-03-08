@@ -10,8 +10,10 @@ $ git clone https://github.com/raghudevendra/solactive-demo.git
 
 4) Run the project as Spring boot application execute below url's. 
   
-3) POST Method URL  --> http://localhost:8080/api/ticks
+5) POST Method URL  --> http://localhost:8080/api/ticks
 
-4) GET Method --> http://localhost:8080/api/statistics
+6) GET Method --> http://localhost:8080/api/statistics
 
-5) GET method for a Particular Instrument Name --> http://localhost:8080/api/statistics/IBM
+7) GET method for a Particular Instrument Name --> http://localhost:8080/api/statistics/IBM
+
+8) Swagger Url --> http://localhost:8080/swagger-ui.html
