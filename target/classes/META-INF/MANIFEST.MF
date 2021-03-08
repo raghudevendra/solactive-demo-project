@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Raghuprasad Devendra
+Build-Jdk: 15.0.1
+Implementation-Title: FinancialIndexDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.solactive.demo
+Implementation-URL: https://spring.io/projects/spring-boot/FinancialInde
+ xDemo
+Created-By: Maven Integration for Eclipse
+
